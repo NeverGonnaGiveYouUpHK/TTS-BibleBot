@@ -11,3 +11,7 @@ The bot will work right away. If something breaks with TTS, it is most likely ju
 When it comes to APIs, it combines the Discord API (in general + voice) and Google Translate TTS API (sending the output straight into voice!).
 
 Bible texts were taken from https://worldenglish.bible/
+
+
+NOTE:
+If you want to run the bot locally, you need to input your own bot access token (this one is invalid) into 'const TOKEN' in the 'bot.js' file.
